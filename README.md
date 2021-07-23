@@ -1,7 +1,7 @@
 ## Hi there, I'm Sebastian  👋
 
 
-## Full-Stack Developer who loves learning new things!!
+## Full-Stack Developer 
 
 - 🌱 I’m currently learning React,JavaScript,Nodejs and Firebase
 - 👯 I’m looking to collaborate with other passionate developers
