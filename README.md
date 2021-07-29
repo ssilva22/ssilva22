@@ -36,6 +36,9 @@
 <img align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 <img align="left" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="AWS" width="26px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" />
+<img align="left" alt="mySQL" width="26px" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/>
+<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/2x/docker.png" />
+<img align="left" alt="Graphql" width="26px" src="https://img.icons8.com/color/48/000000/graphql.png"/>
 <br />
 <br />
 
