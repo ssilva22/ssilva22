@@ -3,9 +3,9 @@
 
 ## Full-Stack Developer 
 
-- 🌱 I’m currently learning RoR,TypeScript,GraphQL and Jenkins
+- 🌱 I’m currently learning Tensorflow, Django, and React-Native 
 - 👯 I’m looking to collaborate with other passionate developers
-- 🥅 2021 Goals: Contribute more to Open Source projects,fully master React, and learn Python!
+- 🥅 2022 Goals: Contribute more to Open Source projects and learn Vue!
 - ⚡ Fun fact: I love SoulsBorne games and Crunchwrap Supremes 🌯
 
 
