@@ -3,9 +3,9 @@
 
 ## Full-Stack Developer 
 
-- 🌱 I’m currently learning Tensorflow, Django, and React-Native 
+- 🌱 I’m currently studying to get AWS and AZURE certs.
 - 👯 I’m looking to collaborate with other passionate developers
-- 🥅 2022 Goals: Contribute more to Open Source projects and learn Vue!
+- 🥅 2023 Goals: Contribute more to Open Source projects get my AZ-900 cert and AWS Dev Associate cert.
 - ⚡ Fun fact: I love SoulsBorne games and Crunchwrap Supremes 🌯
 
 
